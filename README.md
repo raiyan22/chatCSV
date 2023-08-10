@@ -12,6 +12,7 @@ Driven by an advanced language model, the agent strategically selects tools such
 
 ![Screenshot 2023-08-10 231326](https://github.com/raiyan22/chatCSV/assets/58294098/8e929c3f-0b61-4f17-8378-3c0d1a37534f)
 
+The Main reason an agent is used because LLM's cannot directly read csv files. csv files are not readable like text or PDF files. LangChain's built in agent can read the CSV file for us and helps provide useful insights about the uploaded document.
 ## Screenshot
 
 Following is the screenshot of the app that was built
